@@ -6,7 +6,7 @@ package model.student;
 
 /**
  *
- * @author AdvaitK
+ * @author khune
  */
 public class Student {
     private String fname;
