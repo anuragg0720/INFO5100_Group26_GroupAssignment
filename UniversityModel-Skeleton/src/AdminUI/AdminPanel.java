@@ -12,7 +12,7 @@ import model.professor.ProfessorAccount;
 
 /**
  *
- * @author 
+ * @author agnel
  */
 public class AdminPanel extends javax.swing.JPanel {
 

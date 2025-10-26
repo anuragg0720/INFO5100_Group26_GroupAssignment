@@ -8,6 +8,7 @@ package models;
  *
  * @author 
  */
+
 public class ProfessorAccount {
     private String firstNamePro;
     private String lastNamePro;
