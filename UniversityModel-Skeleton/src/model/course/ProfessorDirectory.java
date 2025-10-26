@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author 
+ * @author a
  */
 public class ProfessorDirectory {
     private ArrayList<ProfessorAccount> professorList;
