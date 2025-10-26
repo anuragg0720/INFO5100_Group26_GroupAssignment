@@ -8,6 +8,9 @@ package model.course;
  *
  * @author
  */
+
+
+
 public class Courses {
     private String courseTitle;
     private String subjectCode;
@@ -18,6 +21,7 @@ public class Courses {
     private String teachingLanguage;
     private String professorname;
     private String studentsRegistered;
+
 
     public String getStudentsRegistered() {
         return studentsRegistered;
