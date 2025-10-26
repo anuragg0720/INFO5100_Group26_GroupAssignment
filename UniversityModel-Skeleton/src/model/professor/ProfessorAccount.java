@@ -6,7 +6,7 @@ package model.professor;
 
 /**
  *
- * @author 
+ * @author a
  */
 public class ProfessorAccount {
     private String firstNamePro;
