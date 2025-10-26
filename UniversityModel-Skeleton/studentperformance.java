@@ -6,7 +6,7 @@ package model.student;
 
 /**
  *
- * @author Donald Mucharla
+ * @author 
  */
 public class studentperformance {
     private String uername;
@@ -110,3 +110,4 @@ public class studentperformance {
     
     
 }
+
