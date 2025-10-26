@@ -20,7 +20,7 @@ import model.student.ChoosedCourseModule;
 
 /**
  *
- * @author 
+ * @author a
  */
 public class mainJframe extends javax.swing.JFrame {
 
