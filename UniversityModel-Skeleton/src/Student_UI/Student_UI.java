@@ -20,7 +20,7 @@ import model.student.ProffratingModule;
 
 /**
  *
- * @author 
+ * @author khune
  */
 public class Student_UI extends javax.swing.JPanel {
 
