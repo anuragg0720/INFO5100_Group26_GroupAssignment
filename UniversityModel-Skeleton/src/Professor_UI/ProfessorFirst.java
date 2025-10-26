@@ -13,7 +13,7 @@ import model.course.CourseDirectory;
 
 /**
  *
- * @author 
+ * @author a
  */
 public class ProfessorFirst extends javax.swing.JPanel {
 
