@@ -6,7 +6,7 @@ package model.student;
 
 /**
  *
- * @author YAGNIK
+ * @author a
  */
 public class proffrating {
     
