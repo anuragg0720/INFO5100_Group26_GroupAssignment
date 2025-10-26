@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Donald Mucharla
+ * @author 
  */
 public class studentperformancecatalouge {
     private ArrayList<studentperformance> studentperformance;
@@ -31,3 +31,4 @@ public class studentperformancecatalouge {
         studentperformance.remove(performance);
     }
 }
+
