@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author 
+ * @author khune
  */
 public class StudentModule {
 //    private ArrayList<Student> studentlist;
