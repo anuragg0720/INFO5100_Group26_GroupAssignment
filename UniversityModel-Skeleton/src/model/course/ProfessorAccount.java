@@ -6,7 +6,7 @@ package models;
 
 /**
  *
- * @author 
+ * @author a
  */
 
 public class ProfessorAccount {
