@@ -6,7 +6,7 @@ package model.student;
 
 /**
  *
- * @author 
+ * @author khune
  */
 public class StudentPerformance {
     
