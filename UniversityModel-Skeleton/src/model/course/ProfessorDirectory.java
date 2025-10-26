@@ -10,6 +10,7 @@ import java.util.ArrayList;
  *
  * @author 
  */
+
 public class ProfessorDirectory {
     private ArrayList<ProfessorAccount> professorList;
     

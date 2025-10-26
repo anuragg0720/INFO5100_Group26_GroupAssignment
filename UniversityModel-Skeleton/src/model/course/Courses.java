@@ -6,7 +6,7 @@ package model.course;
 
 /**
  *
- * @author SejalS
+ * @author
  */
 public class Courses {
     private String courseTitle;

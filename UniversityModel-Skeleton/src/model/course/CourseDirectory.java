@@ -6,6 +6,7 @@ package model.course;
 
 import java.util.ArrayList;
 
+
 /**
  *
  * @author 
